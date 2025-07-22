@@ -1,9 +1,6 @@
-# Analysis source-code Investigating annotator bias in comment quality and incivility classification by formal education
+## Analysis source-code Investigating annotator bias in comment quality and incivility classification by formal education
 
-## What's included
-
-Some text
-
+### Please read and cite:
 ```text
 folder1/
 └── folder2/
