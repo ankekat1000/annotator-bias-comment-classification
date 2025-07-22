@@ -1,11 +1,12 @@
 ### Analysis source-code to our study:
 ## Investigating annotator bias in comment quality and incivility classification by formal education
 
-## Abstract
-tbc
+Abstract tbc
 
 ## Method
 tbc
+
+
 
 ### Please read and cite:
 Wilms et al. (2025):
