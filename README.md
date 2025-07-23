@@ -7,6 +7,8 @@ In this study, we investigate the potential impact of annotators’ formal educa
 ## Method
 tbc
 
+## Key Findings
+tbc
 
 
 ### Please read and cite:
