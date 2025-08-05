@@ -11,11 +11,11 @@ tbc
 tbc
 
 
-<img src="figures/Heatmap_MacroF1_Deliberation.png" alt="Figure 1 - Educational Annotator Bias in Deliberation Classification" width="600"/>
+<img src="figures/Heatmap_MacroF1_Deliberation.png" alt="Figure 1 - Educational Annotator Bias in Deliberation Classification" width="650"/>
 
 
 tbc 
-<img src="figures/Heatmap_MacroF1_Incivility.png" alt="Figure 1 - Educational Annotator Bias in Incivility Classification" width="500"/>
+<img src="figures/Heatmap_MacroF1_Incivility.png" alt="Figure 1 - Educational Annotator Bias in Incivility Classification" width="650"/>
 
 
 ### Please read and cite:
