@@ -10,7 +10,7 @@ tbc
 ## Key Findings
 tbc
 
-<img src="figures/Heatmap_MacroF1_Deliberation.png" alt="Figure 1 - Educational Annotator Bias in Deliberation Classification" width="500"/>
+<img src="figures/Heatmap_MacroF1_Deliberation.png" alt="Figure 1 - Educational Annotator Bias in Deliberation Classification" width="750"/>
 
 
 
