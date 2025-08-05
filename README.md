@@ -10,10 +10,12 @@ tbc
 ## Key Findings
 tbc
 
+
 <img src="figures/Heatmap_MacroF1_Deliberation.png" alt="Figure 1 - Educational Annotator Bias in Deliberation Classification" width="600"/>
 
 
-
+tbc 
+<img src="figures/Heatmap_MacroF1_Incivility.png" alt="Figure 1 - Educational Annotator Bias in Incivility Classification" width="500"/>
 
 
 ### Please read and cite:
