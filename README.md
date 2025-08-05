@@ -10,6 +10,9 @@ tbc
 ## Key Findings
 tbc
 
+![Figure 1 - Educational Annotator Bias in Deliberation Classification](figures/Heatmap_MacroF1_Deliberation.png)
+
+
 
 ### Please read and cite:
 Wilms et al. (2025):
