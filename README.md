@@ -4,6 +4,12 @@ This repository contains the source-code to the study _"Investigating Annotator 
 
 Rather than treating disagreement as noise, the study highlights systematic differences in interpretation based on social background, advocating for more inclusive and representative modeling.
 
+Please read and cite this paper, if you build on this work:
+
+Wilms et al. (2025):
+
+Enjoy 💞
+
 ---
 
 ## 🔬 Methods Overview
