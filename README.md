@@ -43,7 +43,7 @@ Enjoy 💞
 ## 🤓 You Might Want to Improve
 
 - **Number of Annotator per Group**: We collected 3 annotations for each educational group and comment, while a higher number might provide higher measurement reliability.
-- **Control for Label Imbalance in Incivility Dataset**: The small number of uncivil comments highly impacted the results and interpretability of the analysis. We recommend further researchers to control for label balance. 
+- **Label Imbalance in Incivility Dataset**: The small number of uncivil comments highly impacted the results and interpretability of the analysis. We recommend further researchers to control for label balance. 
 
 ---
 
