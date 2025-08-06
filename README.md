@@ -1,12 +1,12 @@
 ## Investigating annotator bias in comment quality and incivility classification by formal education
 
-This repository contains the source-code to the study _"Investigating Annotator Bias in Comment Quality and Incivility Classification by Formal Education." Our research explores how annotators’ **formal education levels** influence the behavior of machine learning classifiers for **comment quality (deliberation)** and **incivility** in online discussions that are trained on their annotations.
+This repository contains the source-code to the study _"Investigating Annotator Bias in Comment Quality and Incivility Classification by Formal Education."_ Our research explores how annotators’ **formal education levels** influence the behavior of machine learning classifiers for **comment quality (deliberation)** and **incivility** in online discussions that are trained on their annotations.
 
 Rather than treating disagreement as noise, the study highlights systematic differences in interpretation based on social background, advocating for more inclusive and representative modeling.
 
 Please read and cite this paper, if you build on this work:
 
-Wilms et al. (2025):
+Wilms, L., Stoll, A., & Ziegele, M. (2025): _Investigating Annotator Bias in Comment Quality and Incivility Classification by Formal Education._
 
 Enjoy 💞
 
