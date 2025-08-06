@@ -32,6 +32,12 @@ Rather than treating disagreement as noise, the study highlights systematic diff
 <img src="figures/Heatmap_MacroF1_Incivility.png" alt="Figure 1 - Educational Annotator Bias in Incivility Classification" width="650"/>
 
 
+---
+
+### Copyright and license
+
+Code released under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
+
 ### Please read and cite:
 Wilms et al. (2025):
 
@@ -39,10 +45,5 @@ Wilms et al. (2025):
 Wilms et al. (2025):
 ```
 
-
-
-### Copyright and license
-
-Code released under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
 
 Enjoy 💞
